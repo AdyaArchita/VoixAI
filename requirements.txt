@@ -1,0 +1,7 @@
+faster-whisper
+ollama
+gradio
+librosa
+soundfile
+numpy
+python-dotenv
